@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'My App Shell',
+      title: 'My App',
       debugShowCheckedModeBanner: false,
       // Consistent header/theme styling: set once, used by every page.
       theme: ThemeData(
